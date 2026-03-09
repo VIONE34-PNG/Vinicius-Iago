@@ -1,7 +1,7 @@
 # 👨‍💻 Vinicius Iago
 
 <p align="center">
-Desenvolvedor FullStack • Apaixonado por Tecnologia • Criando soluções através do código
+Desenvolvedor FullStack 
 </p>
 
 ---
